@@ -25,6 +25,8 @@ Projeto Integrador - BD
 
 ## Entrega Sprint 0
 
+## Video Apresentação Sprint 0
+
 [![Video Apresentação Sprint 0](https://img.youtube.com/vi/35BdMUFu61Y/0.jpg)](https://www.youtube.com/watch?v=35BdMUFu61Y)
 
 1. Regras de negócio
