@@ -10,6 +10,8 @@ Projeto Integrador - BD
 - Gustavo de Castro Costa Silva
 - Marcos Francisco da Silva
 - Michel Rubens Ferreira da Silva
+- Jean Lucca Pierro Santos
+- Rodrigo Prado da Silva
 
 
 **Sprint 0: Definição das regras de negócio e estrutura da aplicação**
