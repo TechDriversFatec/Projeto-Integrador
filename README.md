@@ -10,19 +10,26 @@ Projeto Integrador - BD
 - Gustavo de Castro Costa Silva
 - Marcos Francisco da Silva
 - Michel Rubens Ferreira da Silva
-- Jean Lucca Pierro Santos
-- Rodrigo Prado da Silva
+- Jean Lucca Pierro Santos (**Master**)
+- Rodrigo Prado da Silva (**Master**)
+
+### Objetivo do projeto
+
+O Vandroid visa promover uma integração entre motoristas de vans e seus passageiros, contando com a facilidade de acesso aos aparelhos celulares, o Vandroid irá auxiliar  o motorista na administração dos seus horários e rotas, já pelo lado do passageiro iremos atuar para mostrar os horários de embarque e também de desembarque, assim tendo um maior aproveitamento e organização do tempo. Será utilizado o MIT – App Inventor 2 como tecnologia principal no desenvolvimento do aplicativo.
 
 
-**Sprint 0: Definição das regras de negócio e estrutura da aplicação**
 
-**Sprint 1: Tela de login** - Criação do layout no App Inventor e autenticação com Firebase e Google Sheet
+### Definições das Sprints
 
-**Sprint 2: Tela do passageiro** - Criação do layout no App Inventor e inserção e leitura dos dados do passageiro via Google Sheet
+- [ ]  **Sprint 0: Definição das regras de negócio e estrutura da aplicação**
 
-**Sprint 3: Tela do motorista** - Criação do layout no App Inventor e inserção e leitura dos dados do passageiro via Google Sheet
+- [ ]  **Sprint 1: Tela de login** - Criação do layout no App Inventor e autenticação com Firebase e Google Sheet
 
-**Sprint 4: Projeto finalizado, com integração dos dados do passageiro e do motorista** - Integração das telas, com o Google Sheet
+- [ ]  **Sprint 2: Tela do passageiro** - Criação do layout no App Inventor e inserção e leitura dos dados do passageiro via Google Sheet
+
+- [ ]  **Sprint 3: Tela do motorista** - Criação do layout no App Inventor e inserção e leitura dos dados do passageiro via Google Sheet
+
+- [ ]  **Sprint 4: Projeto finalizado, com integração dos dados do passageiro e do motorista** - Integração das telas, com o Google Sheet
 
 
 ## Entrega Sprint 0
@@ -39,9 +46,6 @@ Projeto Integrador - BD
 
 Atualmente a expressão “economia de tempo”, está cada vez mais presente no nosso cotidiano, hoje as interações que temos pelas redes de computadores e aparelhos celulares nos permite a conexão e o contato com todos instantaneamente de uma maneira muito simples e rápida. Pensando nisso e nas problemáticas enfrentadas todos os dias por motoristas de vans escolares que fazem transporte de passageiros, focamos nossas atenções para o desenvolvimento de um aplicativo prático, proporcionando um suporte para o motorista otimizar seu tempo e rota. 
 
-### Objetivo
-
-O Vandroid tem como objetivo promover a interação entre o motorista e o passageiro, contando com a facilidade de acesso aos aparelhos celulares, auxiliando o motorista na administração dos seus horários e rotas. Será utilizado o MIT – App Inventor 2 como tecnologia principal no desenvolvimento do aplicativo.
 
 ###  Funcionalidade do aplicativo
 
