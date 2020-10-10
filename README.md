@@ -21,15 +21,15 @@ O Vandroid visa promover uma integração entre motoristas de vans e seus passag
 
 ### Definições das Sprints
 
-- [ ]  **Sprint 0: Definição das regras de negócio e estrutura da aplicação**
+**Sprint 0: Definição das regras de negócio e estrutura da aplicação** (27/09/2020)
 
-- [ ]  **Sprint 1: Tela de login** - Criação do layout no App Inventor e autenticação com Firebase e Google Sheet
+**Sprint 1: Tela de login** - Criação do layout no App Inventor e autenticação com Firebase e Google Sheet (17/10/2020)
 
-- [ ]  **Sprint 2: Tela do passageiro** - Criação do layout no App Inventor e inserção e leitura dos dados do passageiro via Google Sheet
+**Sprint 2: Tela do passageiro** - Criação do layout no App Inventor e inserção e leitura dos dados do passageiro via Google Sheet (08/11/2020)
 
-- [ ]  **Sprint 3: Tela do motorista** - Criação do layout no App Inventor e inserção e leitura dos dados do passageiro via Google Sheet
+**Sprint 3: Tela do motorista** - Criação do layout no App Inventor e inserção e leitura dos dados do passageiro via Google Sheet (29/11/2020)
 
-- [ ]  **Sprint 4: Projeto finalizado, com integração dos dados do passageiro e do motorista** - Integração das telas, com o Google Sheet
+**Sprint 4: Projeto finalizado, com integração dos dados do passageiro e do motorista** - Integração das telas, com o Google Sheet 
 
 
 ## Entrega Sprint 0
