@@ -119,6 +119,67 @@ Onde abrirá a relação de passageiros que irão no dia e seus respectivos ende
 - GitLab
 - Figma
 
+## Entrega Sprint 1 (17/10/2020)
+
+## Video Apresentação Sprint 1
+
+[![Video Apresentação Sprint 1](https://img.youtube.com/vi/_VQYvhweoug/0.jpg)](https://www.youtube.com/watch?v=_VQYvhweoug)
+
+1. Tela Passageiro - Login
+2. Tela Cadastro
+3. Autenticação
+
+## 1.	Botão "Passageiro" - Tela Login
+
+Ao clicar no botão "passageiro" o passageiro é levado até a tela de autenticação, onde se encontra um campo usuário do tipo text onde o passageiro irá inserir seu nome de usuário, logo abaixo temos o campo senha onde o passageiro deve informar sua senha que deve ser maior ou igual à 5 caracteres.
+Abaixo dos inputs temos dois botões, um botão "voltar" no qual temos a função de voltar para a tela anterior, ao lado direito temos o botão "entrar" que será responsável por fazer a autenticação do usuário e senha digitados.
+Caso o passageiro não tenha cadastro temos um botão "cadastrar" que ao clicar levará o passageiro direto para uma tela de cadastro.
+
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/922/508/original/Screen_Shot_2020-10-16_at_15.50.55.png?1602874391" alt="Tela Inicio">
+</figure>
+
+
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/922/519/original/Screen_Shot_2020-10-16_at_15.51.01.png?1602874612" alt="Tela Inicio">
+</figure>
+
+
+## 2. Tela Cadastro
+
+Na tela "cadastro" temos todos os campos de informações para efetuar o cadastro de um novo passageiro, os campos são:
+Nome: campo do tipo text no qual ira receber e armazenar o nome digitado pelo passageiro 
+Usuário: campo do tipo texto no qual ira receber e armazenar um usuário único digitado pelo passageiro 
+CPF: campo do tipo number no qual ira receber e armazenar os números de CPF do passageiro  
+Telefone: campo do tipo number no qual ira receber e armazenar os números do telefone do passageiro 
+Embarque: campo do tipo text no qual ira receber e armazenar o endereço digitado pelo passageiro 
+Desembarque: campo do tipo text no qual ira receber e armazenar o endereço digitado pelo passageiro 
+Senha: campo do tipo password no qual ira receber e armazenar a senha do passageiro 
+
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/922/517/original/Screen_Shot_2020-10-16_at_15.51.10.png?1602874565" alt="Tela Cadastro">
+</figure>
+
+Após o preenchimento de todos os dados, temos um botão "Salvar" que ao clicar nele os dados são armazenos em dois banco de dados, os dados de nome, usuário, cpf, telefone, embarque, desembarque e senha são armazenados no Firebase conforme imagem abaixo, os dados digitados ficam salvos no usuário único de cada passageiro.
+
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/922/499/original/Screen_Shot_2020-10-16_at_15.43.11.png?1602873946" alt="Tela Cadastro">
+</figure>
+
+Os dados de embarque e desembarque além de serem armazenados no usuário unico direto no Firebase também é armazenado no googlesheet para futuramente na sprint 2 ser consumido e consultado via tela do motorita.
+
+## 3. Autenticação
+
+A autenticação do passageiro é feita na tela de "login", onde o mesmo ira informar seu usuário cadastrado e sua senha, e ao clicar em "Entrar" o processo de autenticação se inicia fazendo uma chamada no Firebase e consultado se o usuário e senha digitado condiz com o que foi gravado no banco de dados, caso usuário ou senha estiverem errados o passageiro receberá uma notificação via pop-up informando que os dados estão divergentes.
+Caso usuário e senha estiverem corretos o usuário será redirecionado para uma página informando que o login foi efetuado com sucesso, e futuramente nas próximas sprints será nessa tela que o passageiro irá confirmar seu embarque e desembarque.
+
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/922/535/original/Screen_Shot_2020-10-16_at_15.51.56.png?1602875317" alt="Tela Login sucesso">
+</figure>
+
+
+
+
 
 
 
