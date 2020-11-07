@@ -177,6 +177,20 @@ Caso usuário e senha estiverem corretos o usuário será redirecionado para uma
 </figure>
 
 ## Entrega Sprint 2 (08/11/2020)
+
+- Confirmação de presença do passageiro 
+- Lista com passageiros que irão no dia
+
+
+**Botão Passageiro**
+
+O passageiro ao entrar em sua conta utilizando seus dados de usuário e senha é direcionado a uma tela onde poderá confirmar se irá na van no dia e essa informação é armazenada no Firebase.
+
+**Botão Motorista**
+
+O motorista da van terá uma lista com a relação de passageiros que confirmaram a presença. Nessa lista ele poderá ver somente os nomes dos usuários que selecionaram que irão no dia.
+
+
 ## Video Apresentação Sprint 02
 
 .
