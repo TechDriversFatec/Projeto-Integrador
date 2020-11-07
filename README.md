@@ -176,6 +176,24 @@ Caso usuário e senha estiverem corretos o usuário será redirecionado para uma
   <img src="https://uploaddeimagens.com.br/images/002/922/535/original/Screen_Shot_2020-10-16_at_15.51.56.png?1602875317" alt="Tela Login sucesso">
 </figure>
 
+## Entrega Sprint 2 (08/11/2020)
+## Video Apresentação Sprint 02
+
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+
 
 
 
