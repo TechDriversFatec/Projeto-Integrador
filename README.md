@@ -23,13 +23,12 @@ O Vandroid visa promover uma integração entre motoristas de vans e seus passag
 
 **Sprint 0: Definição das regras de negócio e estrutura da aplicação** (27/09/2020)
 
-**Sprint 1: Tela de login** - Criação do layout no App Inventor e autenticação com Firebase e Google Sheet (17/10/2020)
+**Sprint 1: Tela de login** - Cadastro de passageiros e autenticação com Firebase e Google Sheet (17/10/2020)
 
-**Sprint 2: Tela do passageiro** - Criação do layout no App Inventor e inserção e leitura dos dados do passageiro via Google Sheet (08/11/2020)
+**Sprint 2: Tela do motorista** - Confirmação de viagem feita pelo passageiro e lista de presença para o motorista (08/11/2020)
 
-**Sprint 3: Tela do motorista** - Criação do layout no App Inventor e inserção e leitura dos dados do passageiro via Google Sheet (29/11/2020)
-
-**Sprint 4: Projeto finalizado, com integração dos dados do passageiro e do motorista** - Integração das telas, com o Google Sheet 
+**Sprint 3: Tela do motorista** - Calculo de rotas e tempo estimado (29/11/2020)
+ 
 
 
 ## Entrega Sprint 0
@@ -51,7 +50,7 @@ Atualmente a expressão “economia de tempo”, está cada vez mais presente no
 
 O Vandroid contará com uma tela simples, sendo necessário fazer login como motorista ou como passageiro, opção que será selecionada na primeira tela da aplicação. 
 
-O app enviará uma notificação para que os usuários cadastrados possam dar o check-in em sua viagem diariamente, o usuário receberá uma notificação o alertando para entrar no aplicativo, efetuar o Login e confirmar se irá ou não com a van escolar no dia, sendo necessário a confirmação de ida e de volta. 
+Ao realizar o login o passageiro deverá confirmar se irá no dia e o motorista terá assim uma lista de passageiros que confirmaram a presença. 
 
 Para início da viagem e para cálculo da rota, o motorista terá que ter a confirmação de todos os passageiros que irão, e a não confirmação por parte do usuário, indicará ao motorista que ele deve tomar outra rota evitando o desperdício de tempo na busca do mesmo. 
 
