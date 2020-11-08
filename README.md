@@ -184,9 +184,14 @@ Caso usuário e senha estiverem corretos o usuário será redirecionado para uma
 
 ## 1. Confirmação de presença do passageiro 
 
-**No botão "Passageiro"**
+**Tela de Confirmação"**
+Após fazer o login utilizando os dados cadastrados o passageiro é direcionado para a tela de confirmação de viagem.
+Na tela confirmação temos os inputs onde os passageiros irão confirmar se irão ou não utilizar a van naquele dia.
+Temos dois inputs do tipo "checkbox" onde o primeiro é "Irei Hoje" e logo abaixo temos o input "Não Irei Hoje" e logo abaixo dos inputs temos o botão "Salvar"
 
-O passageiro, ao entrar em sua conta utilizando seus dados de usuário e senha, é direcionado a uma tela onde poderá confirmar se irá na van no dia e essa informação é armazenada no Firebase.
+Selecionando o checkbox "Irei Hoje" o passageiro irá informar o motorista que irá utilizar o serviço de van naquele dia, após selecionar o checkbox e clicar em "Salvar" esses dados são enviados diretamente para o banco de dados onde será armazenado essa informação, e posteriormente essa informação será consumida pela tela do motoristam, após clicar em "salvar" o passageiro receberá uma mensagem agradecendo pela informação e logo abaixo temos um botão de "Tela Inicial" que redireciona ele para a tela de inicio do app.
+
+Caso o passageiro selecione o checkbox "Não irei hoje" autimaticamente o nome dele é retirado da lista caso anteriormente ele tenha confirmado sua ida, e conforme o botão "Irei Hoje" todas essas informações são salvas no banco de dados e posteriormente consumidas na tela do motorista, após clicar em "salvar" o passageiro receberá uma mensagem agradecendo pela informação e logo abaixo temos um botão de "Tela Inicial" que redireciona ele para a tela de inicio do app.
 
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/951/790/original/WhatsApp_Image_2020-11-07_at_21.11.41.jpeg?1604794457" alt="Confirmação de presença" width="380">
@@ -196,7 +201,7 @@ O passageiro, ao entrar em sua conta utilizando seus dados de usuário e senha, 
 
 **No botão "Motorista"**
 
-O motorista da van terá uma lista com a relação de passageiros que confirmaram a presença. Nessa lista ele poderá ver somente os nomes dos usuários que selecionaram que irão no dia.
+Logo na tela inicial temos o botão "Motorista" ao clicar nele somos direcionados a tela do motorista, onde temos o botão "Presença de Passageiros", ao clicar no botão será feita  uma requisição ao banco de dados que ira mostrar em tela através do módulo List View do App Inventor uma listagem com todos os passageiros que confirmaram a sua ida naquele dia, e futuramente na próxia Sprint será aqui que teremos todas as informações de rota e tempo previsto para chegada.
 
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/951/792/original/WhatsApp_Image_2020-11-07_at_21.11.41_%281%29.jpeg?1604794523" alt="Lista de passageiros confirmados" width="380">
