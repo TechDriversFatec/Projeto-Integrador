@@ -185,6 +185,7 @@ Caso usuário e senha estiverem corretos o usuário será redirecionado para uma
 ## 1. Confirmação de presença do passageiro 
 
 **Tela de Confirmação"**
+
 Após fazer o login utilizando os dados cadastrados o passageiro é direcionado para a tela de confirmação de viagem.
 Na tela confirmação temos os inputs onde os passageiros irão confirmar se irão ou não utilizar a van naquele dia.
 Temos dois inputs do tipo "checkbox" onde o primeiro é "Irei Hoje" e logo abaixo temos o input "Não Irei Hoje" e logo abaixo dos inputs temos o botão "Salvar"
@@ -201,7 +202,10 @@ Caso o passageiro selecione o checkbox "Não irei hoje" autimaticamente o nome d
 
 **No botão "Motorista"**
 
-Logo na tela inicial temos o botão "Motorista" ao clicar nele somos direcionados a tela do motorista, onde temos o botão "Presença de Passageiros", ao clicar no botão será feita  uma requisição ao banco de dados que ira mostrar em tela através do módulo List View do App Inventor uma listagem com todos os passageiros que confirmaram a sua ida naquele dia, e futuramente na próxia Sprint será aqui que teremos todas as informações de rota e tempo previsto para chegada.
+Logo na tela inicial temos o botão "Motorista" ao clicar nele somos direcionados a tela do motorista, onde temos o botão "Presença de Passageiros".
+
+Ao clicar no botão será feita  uma requisição ao banco de dados que ira mostrar em tela através do módulo List View do App Inventor uma listagem com todos os passageiros que confirmaram a sua ida naquele dia.
+
 
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/951/792/original/WhatsApp_Image_2020-11-07_at_21.11.41_%281%29.jpeg?1604794523" alt="Lista de passageiros confirmados" width="380">
