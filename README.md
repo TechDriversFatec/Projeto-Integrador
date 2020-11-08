@@ -176,11 +176,12 @@ Caso usuário e senha estiverem corretos o usuário será redirecionado para uma
   <img src="https://uploaddeimagens.com.br/images/002/922/535/original/Screen_Shot_2020-10-16_at_15.51.56.png?1602875317" alt="Tela Login sucesso">
 </figure>
 
+
 ## Entrega Sprint 2 (08/11/2020)
 
 ## Video Apresentação Sprint 2
 
-[![Video Apresentação Sprint 2](https://i9.ytimg.com/vi/etsJBMzcLL4/mq1.jpg?sqp=CKi9of0F&rs=AOn4CLB8zkQMGj4Wit_yC6vROBFv2Fx9qQ)](https://youtu.be/etsJBMzcLL4)
+[![Video Apresentação Sprint 2](https://img.youtube.com/vi/etsJBMzcLL4/0.jpg)](https://youtu.be/etsJBMzcLL4)
 
 ## 1. Confirmação de presença do passageiro 
 
@@ -188,11 +189,11 @@ Caso usuário e senha estiverem corretos o usuário será redirecionado para uma
 
 Após fazer o login utilizando os dados cadastrados o passageiro é direcionado para a tela de confirmação de viagem.
 Na tela confirmação temos os inputs onde os passageiros irão confirmar se irão ou não utilizar a van naquele dia.
-Temos dois inputs do tipo "checkbox" onde o primeiro é "Irei Hoje" e logo abaixo temos o input "Não Irei Hoje" e logo abaixo dos inputs temos o botão "Salvar"
+Temos dois inputs do tipo "checkbox" onde o primeiro é "Irei Hoje" e logo abaixo temos o input "Não Irei Hoje" e logo abaixo dos inputs temos o botão "Salvar".
 
-Selecionando o checkbox "Irei Hoje" o passageiro irá informar o motorista que irá utilizar o serviço de van naquele dia, após selecionar o checkbox e clicar em "Salvar" esses dados são enviados diretamente para o banco de dados onde será armazenado essa informação, e posteriormente essa informação será consumida pela tela do motoristam, após clicar em "salvar" o passageiro receberá uma mensagem agradecendo pela informação e logo abaixo temos um botão de "Tela Inicial" que redireciona ele para a tela de inicio do app.
+Selecionando o checkbox "Irei Hoje" o passageiro irá informar ao motorista que irá utilizar o serviço de van naquele dia. Após selecionar o checkbox e clicar em "Salvar", esses dados são enviados diretamente para o banco de dados onde será armazenado essa informação, e posteriormente essa informação será consumida pela tela do motorista. Após clicar em "Salvar", o passageiro receberá uma mensagem agradecendo pela informação e logo em seguida aparecerá o botão "Tela Inicial" que redirecionará ele para a tela de início do app.
 
-Caso o passageiro selecione o checkbox "Não irei hoje" autimaticamente o nome dele é retirado da lista caso anteriormente ele tenha confirmado sua ida, e conforme o botão "Irei Hoje" todas essas informações são salvas no banco de dados e posteriormente consumidas na tela do motorista, após clicar em "salvar" o passageiro receberá uma mensagem agradecendo pela informação e logo abaixo temos um botão de "Tela Inicial" que redireciona ele para a tela de inicio do app.
+Caso o passageiro selecione o checkbox "Não irei hoje", se o nome dele aparecia anteriormente na lista, automaticamente o nome será retirado de lá. E conforme o botão "Irei Hoje", todas essas informações são salvas no banco de dados e posteriormente consumidas na tela do motorista. Após clicar em "Salvar", o passageiro receberá uma mensagem agradecendo pela informação e logo em seguida aparecerá o botão "Tela Inicial" que redirecionará ele para a tela de início do app.
 
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/951/790/original/WhatsApp_Image_2020-11-07_at_21.11.41.jpeg?1604794457" alt="Confirmação de presença" width="380">
@@ -202,9 +203,11 @@ Caso o passageiro selecione o checkbox "Não irei hoje" autimaticamente o nome d
 
 **No botão "Motorista"**
 
-Logo na tela inicial temos o botão "Motorista" ao clicar nele somos direcionados a tela do motorista, onde temos o botão "Presença de Passageiros".
+Logo na tela inicial temos o botão "Motorista". Ao clicar nele somos direcionados à tela do motorista, onde temos o botão "Presença de Passageiros".
 
-Ao clicar no botão será feita  uma requisição ao banco de dados que ira mostrar em tela através do módulo List View do App Inventor uma listagem com todos os passageiros que confirmaram a sua ida naquele dia.
+Ao clicar no botão será feita  uma requisição ao banco de dados que irá mostrar em tela, através do módulo List View do App Inventor, uma listagem com todos os passageiros que confirmaram a sua ida naquele dia.
+
+Caso o passageiro não altere a informação na tela de passageiro, a informação não mudará. Ou seja, a informação que estiver no banco - se ele vai ou não - continuará valendo até que o usuário escolha a outra opção em sua página.
 
 
 <figure>
