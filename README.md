@@ -1,4 +1,4 @@
-# Projeto Integrador - Grupo 06
+[](url)# Projeto Integrador - Grupo 06
 
 Projeto Integrador - BD
 
@@ -180,7 +180,7 @@ Caso usuário e senha estiverem corretos o usuário será redirecionado para uma
 
 ## Video Apresentação Sprint 2
 
-[![Video Apresentação Sprint 2](https://img.youtube.com/vi/elULF90Rgko/0.jpg)](https://www.youtube.com/watch?v=etsJBMzcLL4&feature=youtu.be&ab_channel=FatecAppInventor)
+[![Video Apresentação Sprint 2](https://i9.ytimg.com/vi/etsJBMzcLL4/mq1.jpg?sqp=CKi9of0F&rs=AOn4CLB8zkQMGj4Wit_yC6vROBFv2Fx9qQ)](https://youtu.be/etsJBMzcLL4)
 
 ## 1. Confirmação de presença do passageiro 
 
