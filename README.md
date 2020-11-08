@@ -1,8 +1,8 @@
-[](url)# Projeto Integrador - Grupo 06
+# Projeto Integrador - Grupo 06
 
-Projeto Integrador - BD
+## Projeto Integrador - BD
 
-## Integrantes do grupo:
+### Integrantes do grupo:
 
 - Danilo Verginio da Silva
 - Eliza Silva Galvão
