@@ -185,7 +185,7 @@ Caso usuário e senha estiverem corretos o usuário será redirecionado para uma
 
 ## 1. Confirmação de presença do passageiro 
 
-**Tela de Confirmação"**
+**Tela de Confirmação**
 
 Após fazer o login utilizando os dados cadastrados o passageiro é direcionado para a tela de confirmação de viagem.
 Na tela confirmação temos os inputs onde os passageiros irão confirmar se irão ou não utilizar a van naquele dia.
@@ -201,7 +201,7 @@ Caso o passageiro selecione o checkbox "Não irei hoje", se o nome dele aparecia
 
 ## 2. Lista com passageiros que irão no dia
 
-**No botão "Motorista"**
+**Relação de usuários confirmados**
 
 Logo na tela inicial temos o botão "Motorista". Ao clicar nele somos direcionados à tela do motorista, onde temos o botão "Presença de Passageiros".
 
