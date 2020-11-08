@@ -178,40 +178,29 @@ Caso usuário e senha estiverem corretos o usuário será redirecionado para uma
 
 ## Entrega Sprint 2 (08/11/2020)
 
-- Confirmação de presença do passageiro 
-- Lista com passageiros que irão no dia
+## Video Apresentação Sprint 2
 
+[![Video Apresentação Sprint 2](https://img.youtube.com/vi/elULF90Rgko/0.jpg)](https://www.youtube.com/watch?v=elULF90Rgko)
 
-**Botão Passageiro**
+## 1. Confirmação de presença do passageiro 
 
-O passageiro ao entrar em sua conta utilizando seus dados de usuário e senha é direcionado a uma tela onde poderá confirmar se irá na van no dia e essa informação é armazenada no Firebase.
+**No botão "Passageiro"**
 
-**Botão Motorista**
+O passageiro, ao entrar em sua conta utilizando seus dados de usuário e senha, é direcionado a uma tela onde poderá confirmar se irá na van no dia e essa informação é armazenada no Firebase.
+
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/951/790/original/WhatsApp_Image_2020-11-07_at_21.11.41.jpeg?1604794457" alt="Confirmação de presença" width="380">
+</figure>
+
+## 2. Lista com passageiros que irão no dia
+
+**No botão "Motorista"**
 
 O motorista da van terá uma lista com a relação de passageiros que confirmaram a presença. Nessa lista ele poderá ver somente os nomes dos usuários que selecionaram que irão no dia.
 
-
-## Video Apresentação Sprint 02
-
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-.
-
-
-
-
-
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/951/792/original/WhatsApp_Image_2020-11-07_at_21.11.41_%281%29.jpeg?1604794523" alt="Lista de passageiros confirmados" width="380">
+</figure>
 
 
 
