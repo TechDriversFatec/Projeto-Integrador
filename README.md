@@ -180,7 +180,7 @@ Caso usuário e senha estiverem corretos o usuário será redirecionado para uma
 
 ## Video Apresentação Sprint 2
 
-[![Video Apresentação Sprint 2](https://img.youtube.com/vi/elULF90Rgko/0.jpg)](https://www.youtube.com/watch?v=elULF90Rgko)
+[![Video Apresentação Sprint 2](https://img.youtube.com/vi/elULF90Rgko/0.jpg)](https://www.youtube.com/watch?v=etsJBMzcLL4&feature=youtu.be&ab_channel=FatecAppInventor)
 
 ## 1. Confirmação de presença do passageiro 
 
