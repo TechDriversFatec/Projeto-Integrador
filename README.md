@@ -13,6 +13,28 @@
 - Jean Lucca Pierro Santos (**Master**)
 - Rodrigo Prado da Silva (**Master**)
 
+### Linkedin dos componentes do grupo:
+
+- Eliza Silva Galvão:
+https://www.linkedin.com/in/eliza-galvão-7b3734104
+
+- Guilherme de Agostin:
+https://www.linkedin.com/in/guilherme-agostin-90ba6169/
+
+- Gustavo de Castro Costa Silva:
+https://www.linkedin.com/in/gustavocastrow/
+
+- Marcos Francisco da Silva:
+https://www.linkedin.com/in/marcossilva2020
+
+- Michel Rubens Ferreira da Silva:
+https://www.linkedin.com/in/michelrubens
+
+- Jean Lucca Pierro Santos (**Master**)
+
+- Rodrigo Prado da Silva (**Master**)
+
+
 ### Objetivo do projeto
 
 O Vandroid visa promover uma integração entre motoristas de vans e seus passageiros, contando com a facilidade de acesso aos aparelhos celulares, o Vandroid irá auxiliar  o motorista na administração dos seus horários e rotas, já pelo lado do passageiro iremos atuar para mostrar os horários de embarque e também de desembarque, assim tendo um maior aproveitamento e organização do tempo. Será utilizado o MIT – App Inventor 2 como tecnologia principal no desenvolvimento do aplicativo.
