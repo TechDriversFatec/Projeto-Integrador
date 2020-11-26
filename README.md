@@ -236,18 +236,28 @@ Caso o passageiro não altere a informação na tela de passageiro, a informaç�
   <img src="https://uploaddeimagens.com.br/images/002/951/792/original/WhatsApp_Image_2020-11-07_at_21.11.41_%281%29.jpeg?1604794523" alt="Lista de passageiros confirmados" width="380">
 </figure>
 
-Reunião dia 24/11/20 início : 19:40h até 00:00h
+Reunião dia 24/11/20 início : 19:40h até 00:00h.
 
-Fizemos a testagem de todas as funções do ap para entrega dia 29/11/20
-Melhoramento do design do ap exemplo : botões
-Melhorar apresentação do ap tipo ícones,figuras e bonecos
-Arrumamos ida para o destino,agora arrumaremos a volta do serviço no ap
-Setar campo controle para definição do destino
-Excluir layout que não usava
-Definir a tela de volta para confirmar no passageiro ou seja início do passageiro e não início do ap
-Acertar listagem do motorista e do passageiro
-Acertando listas no firebase,list picker,before picking,after picking,lista global
+Fizemos a testagem de todas as funções do ap para entrega dia 29/11/20.
+Melhoramento do design do ap exemplo : botões.
+Melhorar apresentação do ap tipo ícones,figuras e bonecos.
+Arrumamos ida para o destino,agora arrumaremos a volta do serviço no ap.
+Setar campo controle para definição do destino.
+Excluir layout que não usava.
+Definir a tela de volta para confirmar no passageiro ou seja início do passageiro e não início do ap.
+Acertar listagem do motorista e do passageiro.
+Acertando listas no firebase,list picker,before picking,after picking,lista global.
 Acertando métodos.
+
+Reunião dia 25/11/20 início : 20:45h até 23:00h.
+
+Ajustando o tempo no ap,hora prevista,variáveis no apinventor.
+Verificando global teste duration ida.
+Temos hora prevista dos testes e tudo foi rodando perfeitamente.
+Integração das sprints concluída.
+Gerenciamento do mapa houve um impasse sobre ponto e vírgula,os testes para termos sucesso foi necessário validarmos com vírgula somente.
+
+
 
 
 
