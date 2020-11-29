@@ -267,7 +267,8 @@ inclusão de vídeos e prints sobre o ap.
 
 
 <figure>
-  <img src="blob:https://web.whatsapp.com/86aa3a3a-c7ce-4b40-91f1-520f259f049b
+  <img src="blob:https://uploaddeimagens.com.br/images/002/983/604/thumb/foto.jpg?1606689745
+  
   
 
 
