@@ -267,7 +267,11 @@ inclusão de vídeos e prints sobre o ap.
 
 
 <figure>
-  <img src="blob:https://uploaddeimagens.com.br/images/002/983/604/thumb/foto.jpg?1606689745
+  <img src="https://uploaddeimagens.com.br/images/002/983/604/thumb/foto.jpg?1606689745"
+  
+
+
+
   
   
 
