@@ -4,6 +4,7 @@
 
 ### Integrantes do grupo:
 
+- Danilo Verginio da Silva
 - Eliza Silva Galvão
 - Guilherme de Agostin
 - Gustavo de Castro Costa Silva
@@ -255,6 +256,23 @@ Verificando global teste duration ida.
 Temos hora prevista dos testes e tudo foi rodando perfeitamente.
 Integração das sprints concluída.
 Gerenciamento do mapa houve um impasse sobre ponto e vírgula,os testes para termos sucesso foi necessário validarmos com vírgula somente.
+
+Reunião dia 29/11/20 início : 17:00 até 21:00h.
+
+Finalizar todos componentes para entrega do ap.
+Login sucesso.
+Lista de longitude e latitude de ida.
+Viagem sugerida de ida sprint 1.
+inclusão de vídeos e prints sobre o ap.
+
+
+<figure>
+  <img src="https://uploaddeimagens.com.br/imagens/Ln_Lif4
+  
+
+
+
+
 
 
 
