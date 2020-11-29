@@ -4,7 +4,6 @@
 
 ### Integrantes do grupo:
 
-- Danilo Verginio da Silva
 - Eliza Silva Galvão
 - Guilherme de Agostin
 - Gustavo de Castro Costa Silva
