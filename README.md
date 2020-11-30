@@ -287,20 +287,22 @@ Selecionando a opção "**Motorista**", o app abrirá uma outra tela com mais qu
   <img src="https://uploaddeimagens.com.br/images/002/983/632/full/Screenshot_2020-11-29-18-37-02.png?1606691956" width="380">
 </figure>
 
+## 3. Navegação de ida
+
 Ao clicar no primeiro botão "**Navegação de ida**" o aplicativo do Google Maps abrirá na navegação, já com todos os pontos da ida, saindo do Vale Sul Shopping e tendo mais 5 paradas pelo caminho.
 
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/637/full/Screenshot_2020-11-29-18-37-21.png?1606692287" width="380">
 </figure>
 
-À seguir, o _request_ da API, com todos os pontos que foram apresentados no mapa:
+À seguir, o _request_ da **API C#**, consumindo os dados da API **Distance Matrix**, com todos os pontos que foram apresentados no mapa:
 
 <figure>
-  <img src="https://uploaddeimagens.com.br/images/002/983/613/full/IMG-20201129-WA0004.jpg?1606690991" alt="1ª parte">
+  <img src="https://uploaddeimagens.com.br/images/002/983/749/full/c343a980-8856-4771-90ca-c7ef1364b252.jpg?1606702808" alt="1ª parte">
 </figure>
 
 <figure>
-  <img src="https://uploaddeimagens.com.br/images/002/983/611/full/IMG-20201129-WA0002.jpg?1606690843" alt="2ª parte">
+  <img src="https://uploaddeimagens.com.br/images/002/983/752/full/ab55e49e-728b-4844-b499-1facbf19b907.jpg?1606702902" alt="2ª parte">
 </figure>
 
 E novamente no mapa, todos os pontos por onde o motorista precisará passar. Esses pontos podem ser reordenados, excluídos ou acrescentados de novos pontos, se assim o motorista desejar.
@@ -309,28 +311,33 @@ E novamente no mapa, todos os pontos por onde o motorista precisará passar. Ess
   <img src="https://uploaddeimagens.com.br/images/002/983/730/full/foto_1.png?1606700363" width="380">
 </figure>
 
-  
+## 4. Navegação de volta
 
+Similar ao "**Navegação de ida**", mas com a origem agora sendo a FATEC.
 
-  
+## 5. Passageiros ida
 
-  
-    
-  
-   
-  
-  
-   
-  
+Selecionando o botão "**Passageiros ida**" abre uma lista com todos os confirmados. Se algum deles for selecionado, abrirá no detalhe o endereço do passageiro em questão.
 
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/983/760/full/IMG-20201129-WA0038.jpg?1606703951" width="380" alt="Passageiros ida">
+</figure>
 
+## 6. Passageiros volta
 
-  
-  
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/983/759/full/IMG-20201129-WA0039.jpg?1606703853" width="380" alt="Passageiros volta">
+</figure>
 
+Similar ao "**Passageiros ida**", mas com a lista dos passageiros que confirmaram a volta, na "**Tela de Confirmação**".
 
+## 7. Hora prevista
 
+Para acessar essa tela, é necessário fazer login como **Passageiro**. Para isso, na **Tela Inicial** é preciso clicar em "**Passageiro**", depois fazer o _login_ na **Tela de Login**, escolher entre as opções: "**Confirmar ida**", "**Confirmar volta**", "**Confirmar ida e volta**" ou "**Não irei**" e na tela seguinte (**Hora Prevista**), clicar no botão "**Hora Prevista**".
 
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/983/762/full/9a8e6a7b-10d3-41a6-9191-4e5eb86c2cc7.jpg?1606704214" width="380" alt="Hora Prevista">
+</figure>
 
 
 
