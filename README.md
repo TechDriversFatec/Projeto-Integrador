@@ -287,6 +287,13 @@ Ao clicar no botão "motorista" o motorista é levado até a tela de navegação
 
   Aparecerá esta tela indicando o começo na Avenida Andrômeda com 5 paradas até avenida Cesare Monsueto.
 
+
+<figure>
+  <img src="https://uploaddeimagens.com.br/images/002/983/730/full/foto_1.png?1606700363" 
+
+  
+
+
   
 
   
