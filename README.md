@@ -325,11 +325,11 @@ Selecionando o botão "**Passageiros ida**" abre uma lista com todos os confirma
 
 ## 6. Passageiros volta
 
+Similar ao "**Passageiros ida**", mas com a lista dos passageiros que confirmaram a volta, na "**Tela de Confirmação**".
+
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/759/full/IMG-20201129-WA0039.jpg?1606703853" width="380" alt="Passageiros volta">
 </figure>
-
-Similar ao "**Passageiros ida**", mas com a lista dos passageiros que confirmaram a volta, na "**Tela de Confirmação**".
 
 ## 7. Hora prevista
 
