@@ -263,7 +263,7 @@ Finalizar todos componentes para entrega do ap.
 Login sucesso.
 Lista de longitude e latitude de ida.
 Viagem sugerida de ida sprint 1.
-inclusão de vídeos e prints sobre o ap.
+inclusão de prints sobre o ap.
 
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/613/full/IMG-20201129-WA0004.jpg?1606690991"
@@ -274,11 +274,24 @@ inclusão de vídeos e prints sobre o ap.
   <img src="https://uploaddeimagens.com.br/images/002/983/611/full/IMG-20201129-WA0002.jpg?1606690843"
 
 
- ## 1.	Botão "Motorista" - Tela Login
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  ## 1.	Botão "Motorista" - Tela Login
 
-Ao clicar no botão "motorista" o motorista é levado até a tela de navegação, onde se encontra um campo navegação da ida e navegação da volta.
+
+
+
+
+  Ao clicar no botão "motorista" o motorista é levado até a tela de navegação.
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/629/full/Screenshot_2020-11-29-18-36-57.png?1606691823"
+
+  onde se encontra um campo navegação da ida e navegação da volta.
 
 
 
@@ -289,6 +302,8 @@ Ao clicar no botão "motorista" o motorista é levado até a tela de navegação
 
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/637/full/Screenshot_2020-11-29-18-37-21.png?1606692287" 
+
+
   
     
   
