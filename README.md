@@ -257,7 +257,7 @@ Temos hora prevista dos testes e tudo foi rodando perfeitamente.
 Integração das sprints concluída.
 Gerenciamento do mapa houve um impasse sobre ponto e vírgula,os testes para termos sucesso foi necessário validarmos com vírgula somente.
 
-Reunião dia 29/11/20 início : 17:00 até 21:00h.
+Reunião dia 29/11/20 início : 17:00 até 23:00h.
 
 Finalizar todos componentes para entrega do ap.
 Login sucesso.
