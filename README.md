@@ -274,9 +274,9 @@ inclusão de vídeos e prints sobre o ap.
   <img src="https://uploaddeimagens.com.br/images/002/983/611/full/IMG-20201129-WA0002.jpg?1606690843"
 
 
+ ## 1.	Botão "Motorista" - Tela Login
 
-
-
+Ao clicar no botão "motorista" o motorista é levado até a tela de navegação, onde se encontra um campo navegação da ida e navegação da volta.
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/629/full/Screenshot_2020-11-29-18-36-57.png?1606691823"
 
