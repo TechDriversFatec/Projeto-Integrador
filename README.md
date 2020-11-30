@@ -268,41 +268,26 @@ inclusão de prints sobre o ap.
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/613/full/IMG-20201129-WA0004.jpg?1606690991"
 
-
-
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/611/full/IMG-20201129-WA0002.jpg?1606690843"
 
+  Botão "Motorista" - Tela Login
 
- 
- 
- 
- 
- 
- 
- 
-  ## 1.	Botão "Motorista" - Tela Login
-
-
-
-
-
-  Ao clicar no botão "motorista" o motorista é levado até a tela de navegação.
+Ao clicar no botão "motorista" o motorista é levado até a tela de navegação.
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/629/full/Screenshot_2020-11-29-18-36-57.png?1606691823"
 
   onde se encontra um campo navegação da ida e navegação da volta.
 
-
-
-  
  <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/632/full/Screenshot_2020-11-29-18-37-02.png?1606691956"
-
 
 <figure>
   <img src="https://uploaddeimagens.com.br/images/002/983/637/full/Screenshot_2020-11-29-18-37-21.png?1606692287" 
 
+  Aparecerá esta tela indicando o começo na Avenida Andrômeda com 5 paradas até avenida Cesare Monsueto.
+
+  
 
   
     
