@@ -312,6 +312,9 @@ Para acessar essa tela, é necessário fazer login como **Passageiro**. Para iss
   <img src="https://uploaddeimagens.com.br/images/002/983/762/full/9a8e6a7b-10d3-41a6-9191-4e5eb86c2cc7.jpg?1606704214" width="380" alt="Hora Prevista">
 </figure>
 
+## Vídeo - Apresentação final
+
+[![Video Apresentação Final](https://img.youtube.com/vi/5tEnnkWnCi8/0.jpg)](https://www.youtube.com/watch?v=5tEnnkWnCi8&ab_channel=FatecAppInventor)
 
 
 
