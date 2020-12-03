@@ -241,7 +241,7 @@ Caso o passageiro não altere a informação na tela de passageiro, a informaç�
 
 ## Vídeo Apresentação Sprint 3
 
-[![Video Apresentação Sprint 3](https://img.youtube.com/vi/etsJBMzcLL4/0.jpg)](https://www.youtube.com/watch?v=5nUm0Sdmhf4)
+[![Video Apresentação Sprint 3](https://img.youtube.com/vi/5nUm0Sdmhf4/0.jpg)](https://www.youtube.com/watch?v=5nUm0Sdmhf4)
 
 
 ## 1. Tela inicial
